@@ -1,8 +1,10 @@
-hello world
-dd
-asdasasas
-asdasasasasasas
+dotnet new --list
 
+dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
 
-asdasasasasasas
-asdasasas
+https://blazorstrap.io/
+https://www.webassemblyman.com/blazor/blazordatabinding.html
+https://blazor-tutorial.net/blazor-components
+https://blazor.radzen.com/dropdown-datagrid
+https://bootstrapdemo.blazorise.com/
+https://www.matblazor.com/
