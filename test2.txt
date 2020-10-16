@@ -1,6 +1,6 @@
 dotnet new --list
 
-do
+dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
 
 https://blazorstrap.io/
 https://www.webassemblyman.com/blazor/blazordatabinding.html
@@ -11,7 +11,3 @@ https://www.matblazor.com/
 https://blazor-university.com/
 https://blazorise.com/docs/
 
-A new line to the bottom
-
-
-easier
