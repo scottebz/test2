@@ -12,3 +12,6 @@ https://blazor-university.com/
 https://blazorise.com/docs/
 
 A new line to the bottom
+
+
+easier
