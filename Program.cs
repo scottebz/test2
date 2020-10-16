@@ -8,6 +8,8 @@ namespace test2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Jason is a poo");
+            string bumtest = Console.ReadLine();
+            Console.WriteLine(bumtest+" Totes not a poo");
         }
     }
 }
