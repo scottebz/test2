@@ -8,3 +8,5 @@ https://blazor-tutorial.net/blazor-components
 https://blazor.radzen.com/dropdown-datagrid
 https://bootstrapdemo.blazorise.com/
 https://www.matblazor.com/
+https://blazor-university.com/
+https://blazorise.com/docs/
