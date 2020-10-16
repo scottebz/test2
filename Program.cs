@@ -10,6 +10,8 @@ namespace test2
             Console.WriteLine("Jason is a poo");
             string tt = Console.ReadLine();
             Console.WriteLine(tt + " lllll");
+            string bumtest = Console.ReadLine();
+            Console.WriteLine(bumtest+" Totes not a poo");
         }
     }
 }

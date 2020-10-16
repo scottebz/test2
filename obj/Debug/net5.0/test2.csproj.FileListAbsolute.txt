@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Scott\Documents\progs\test2\test2\bin\Debug\net5.0\test2.exe
 C:\Users\Scott\Documents\progs\test2\test2\bin\Debug\net5.0\test2.deps.json
 C:\Users\Scott\Documents\progs\test2\test2\bin\Debug\net5.0\test2.runtimeconfig.json
@@ -14,3 +15,21 @@ C:\Users\Scott\Documents\progs\test2\test2\obj\Debug\net5.0\test2.dll
 C:\Users\Scott\Documents\progs\test2\test2\obj\Debug\net5.0\ref\test2.dll
 C:\Users\Scott\Documents\progs\test2\test2\obj\Debug\net5.0\test2.pdb
 C:\Users\Scott\Documents\progs\test2\test2\obj\Debug\net5.0\test2.genruntimeconfig.cache
+=======
+C:\Users\jason\test2\bin\Debug\net5.0\test2.exe
+C:\Users\jason\test2\bin\Debug\net5.0\test2.deps.json
+C:\Users\jason\test2\bin\Debug\net5.0\test2.runtimeconfig.json
+C:\Users\jason\test2\bin\Debug\net5.0\test2.runtimeconfig.dev.json
+C:\Users\jason\test2\bin\Debug\net5.0\test2.dll
+C:\Users\jason\test2\bin\Debug\net5.0\ref\test2.dll
+C:\Users\jason\test2\bin\Debug\net5.0\test2.pdb
+C:\Users\jason\test2\obj\Debug\net5.0\test2.csprojAssemblyReference.cache
+C:\Users\jason\test2\obj\Debug\net5.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\test2\obj\Debug\net5.0\test2.AssemblyInfoInputs.cache
+C:\Users\jason\test2\obj\Debug\net5.0\test2.AssemblyInfo.cs
+C:\Users\jason\test2\obj\Debug\net5.0\test2.csproj.CoreCompileInputs.cache
+C:\Users\jason\test2\obj\Debug\net5.0\test2.dll
+C:\Users\jason\test2\obj\Debug\net5.0\ref\test2.dll
+C:\Users\jason\test2\obj\Debug\net5.0\test2.pdb
+C:\Users\jason\test2\obj\Debug\net5.0\test2.genruntimeconfig.cache
+>>>>>>> bffedc56af6339a44c5eceab0adaf4f1ea38d51f
